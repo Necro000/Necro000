@@ -50,19 +50,19 @@
 
 <div align="center">
 
-<!-- GitHub Readme Stats Card (Themed Dark Purple / Cyberpunk) -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Necro000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07060d&title_color=a855f7&icon_color=00f0ff&text_color=e2e8f0" alt="GitHub Stats" width="48%" />
-<!-- GitHub Streak Stats Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Necro000&theme=tokyonight&hide_border=true&background=07060d&ring=a855f7&fire=00f0ff&currStreakLabel=a855f7" alt="GitHub Streak" width="48%" />
+<!-- Official GitHub Readme Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Necro000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07060d&title_color=a855f7&icon_color=00f0ff&text_color=e2e8f0" alt="GitHub Stats" width="49%" />
 
-<br/>
+<!-- GitHub Streak Stats Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Necro000&theme=tokyonight&hide_border=true&background=07060d&ring=a855f7&fire=00f0ff&currStreakLabel=a855f7" alt="GitHub Streak" width="49%" />
+
+<br/><br/>
 
 <!-- Top Languages Card -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Necro000&layout=compact&theme=tokyonight&hide_border=true&bg_color=07060d&title_color=a855f7&text_color=e2e8f0" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necro000&layout=compact&theme=tokyonight&hide_border=true&bg_color=07060d&title_color=a855f7&text_color=e2e8f0" alt="Top Languages" width="60%" />
 
 </div>
 
----
 
 ### 🚀 FEATURED DEPLOYMENTS
 
